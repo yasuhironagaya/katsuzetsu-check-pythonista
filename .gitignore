@@ -1,0 +1,4 @@
+katsuzetsu_records.json
+recordings/
+*.png
+__pycache__/
